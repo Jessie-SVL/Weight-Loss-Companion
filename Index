@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Suivi Sportif</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <!-- Page d'accueil -->
+  <div id="accueil">
+    <!-- Récapitulatif des activités, alimentation, humeur, etc. -->
+  </div>
+
+  <!-- Section des récompenses -->
+  <div id="recompenses">
+    <!-- Affichage des récompenses -->
+  </div>
+
+  <!-- Formulaire d'urgence -->
+  <div id="urgence">
+    <!-- Formulaire pour gérer les écarts alimentaires -->
+  </div>
+
+  <!-- Suivi du poids -->
+  <div id="poids-suivi">
+    <!-- Formulaire et graphique pour suivre l'évolution du poids -->
+  </div>
+
+  <!-- Liste des courses -->
+  <div id="courses">
+    <!-- Liste à compléter ou imprimer -->
+  </div>
+</body>
+</html>
